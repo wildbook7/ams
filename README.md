@@ -1,3 +1,25 @@
+# AMS
+
+---
+
+※　以下は、開発メモです　※
+
+## ESLint の参考情報
+
+https://typescriptbook.jp/tutorials/eslint
+
+https://akashsingh.blog/complete-guide-on-setting-up-eslint-and-prettier-to-work-with-nextjs-typescript-project-create-next-app-ts
+
+## Prettier の参考情報
+
+https://zenn.dev/shimakaze_soft/articles/57642e22124968
+
+https://site-builder.wiki/posts/49774
+
+[VSCode 上でのファイル保存時フォーマットの設定](https://ralacode.com/blog/post/vscode-prettier/)
+
+---
+
 This is a [Next.js](https://nextjs.org/) project bootstrapped with [`create-next-app`](https://github.com/vercel/next.js/tree/canary/packages/create-next-app).
 
 ## Getting Started
